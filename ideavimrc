@@ -1,0 +1,9 @@
+set rnu
+set nu
+set smd
+set sc
+set cb+=unnamed
+
+set surround
+set commentary
+set multiple-cursors
